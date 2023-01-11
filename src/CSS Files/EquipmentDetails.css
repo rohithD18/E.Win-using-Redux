@@ -1,0 +1,145 @@
+.equipmetDetailsPage {
+  color: white;
+}
+.Eq-header {
+  color: aliceblue;
+  position: fixed;
+  top: 0px;
+  height: 80px;
+  padding-top: 20px;
+  background-color: black;
+  width: 100%;
+  border-bottom: 1px solid lightgrey;
+}
+.arrow {
+  border: solid white;
+  border-width: 0 3.5px 3.5px 0px;
+  display: inline-block;
+  padding: 6px;
+  margin-left: 50px;
+}
+.arrow:hover {
+  cursor: pointer;
+}
+.left {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(135deg);
+}
+#equipmentimage {
+  width: 200px;
+  height: 210px;
+  border: 1px solid;
+  border-radius: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: 25%;
+  background-color: rgb(40, 47, 57);
+  margin-bottom: 5px;
+}
+.card1 {
+  width: 40%;
+  padding: 15px;
+  position: static;
+  background-color: #111432;
+  border: 1px solid lightgray;
+}
+.card2 {
+  width: 40%;
+  padding: 15px;
+  position: static;
+  background-color: #111432;
+  border: 1px solid lightgray;
+}
+.card1card2 {
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.EDInput {
+  height: 40px;
+  border: none;
+  border-radius: 10px;
+  background-color: rgb(40, 47, 57);
+  color: aliceblue;
+  margin-bottom: 10px;
+  padding-left: 10px;
+}
+.card3card4card5 {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.card3,
+.card4,
+.card5 {
+  width: 32%;
+  background-color: #111432;
+  border: 1px solid lightgray;
+  /* text-align: center; */
+  position: static;
+}
+#cardTitle {
+  background-color: rgb(40, 47, 57);
+  text-align: center;
+  border-radius: 10px;
+  height: 30px;
+  margin: 3px;
+}
+#sparePartImg {
+  width: 115px;
+  float: left;
+}
+.spareInput {
+  width: 150px;
+}
+.spareDiv {
+  display: flex;
+}
+#documentLink {
+  text-decoration: none;
+  color: aquamarine;
+}
+#documentLink:hover {
+  text-decoration: underline;
+  color: blue;
+}
+.screens:hover {
+  cursor: pointer;
+  background-color: #232544;
+  border-radius: 10px;
+}
+/* sparePartPage */
+.sparePartPage {
+  color: white;
+  margin-top: 80px;
+  display: flex;
+}
+#spareImage {
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  background-color: #111432;
+  border: 1px solid;
+  border-radius: 10px;
+  margin-left: 50px;
+}
+#spares {
+  width: 300px;
+  height: 40px;
+  border-radius: 10px;
+  border: none;
+  background-color: #3a3d67;
+  color: aliceblue;
+  padding-left: 15px;
+  margin-bottom: 20px;
+}
+.spareSection2 {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.spareSection3 {
+  margin-left: 50px;
+  margin-top: 20px;
+}

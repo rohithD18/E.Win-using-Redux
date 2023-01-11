@@ -1,0 +1,102 @@
+.homePage {
+  text-align: center;
+  display: flex;
+}
+.mywinlogo {
+  margin-left: 120px;
+  padding: 3%;
+  display: flex;
+  color: aliceblue;
+  border-bottom: 0.1ch solid lightblue;
+  width: 95%
+}
+.homeNavbar {
+  background-color: teal;
+  display: block;
+  text-align: center;
+  height: 610px;
+  color: aliceblue;
+  position: fixed;
+  top: 0px;
+  width: 120px;
+}
+.cardsSection {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 120px;
+  margin-top: 20px;
+}
+#navLink {
+  text-decoration: none;
+  color: white;
+}
+#navLink:hover {
+  background-color: black;
+}
+#profileBtn {
+  border: none;
+  background-color: white;
+  padding: 5px;
+  width: 150px;
+  text-align: left;
+  text-decoration: none;
+  color: black;
+}
+#profileBt {
+  color: wheat;
+}
+#profileBtn:hover {
+  color: blue;
+}
+#logoimg {
+  width: 40px;
+  height: 40px;
+}
+.cardbody {
+  color: black;
+  cursor: pointer;
+  display: flex;
+}
+#cardimg {
+  width: 100px;
+  height: 90px;
+}
+.homeCard {
+  margin-left: 3%;
+  /* width: 300px; */
+}
+.homeCard:hover {
+  box-shadow: -2px 2px 5px rgb(152, 147, 147), -2px -2px 5px rgb(152, 147, 147),
+    2px -2px 5px rgb(152, 147, 147), 2px 2px 5px rgb(152, 147, 147);
+}
+#myProjects {
+  color: rgb(12, 134, 121);
+  font-weight: bold;
+}
+#myInstallations {
+  color: rgb(216, 53, 156);
+  font-weight: bold;
+}
+.carddata {
+  text-align: left;
+  padding-top: 15px;
+}
+#navimg {
+  width: 40px;
+  height: 30px;
+}
+#navButton {
+  border: none;
+  width: 100%;
+  background-color: teal;
+  color: white;
+  padding: 10px;
+}
+#navButton:hover {
+  background-color: rgb(18, 206, 184);
+}
+#qrCode{
+  width:85%;
+  margin-top: 10px;
+  border-radius: 10px;
+}

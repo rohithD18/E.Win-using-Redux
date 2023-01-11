@@ -1,0 +1,120 @@
+{
+  "results": [
+    {
+      "id": 289,
+      "line_org_location": "Bangladesh",
+      "purchase_order_number": "",
+      "equipment_name":"Filtration Unit",
+      "fm_org_name":"Sreekanth FM Org",
+      "equipment_image":"https://portalenablingwindiag.blob.core.windows.net/enabling-storage/Filtration-Unit-AE72.jpg",
+      "status" :"Unassigned"
+    },
+    {
+      "id": 281,
+      "line_org_location": "Bangladesh",
+      "purchase_order_number": "",
+      "equipment_name": "Slicer",
+      "fm_org_name":"Sreekanth FM Org",
+      "equipment_image":"https://portalenablingwindiag.blob.core.windows.net/enabling-storage/Slicer-AE54.jpg",
+      "status" :"Unassigned"
+
+    },
+    {
+      "id": 271,
+      "line_org_location": "Bangladesh",
+      "purchase_order_number": "",
+      "equipment_name": "Potato Handler",
+      "fm_org_name":"Sreekanth FM Org",
+      "equipment_image":"https://portalenablingwindiag.blob.core.windows.net/enabling-storage/Potato-Handler-AE53.jpg",
+      "status" :"Unassigned"
+
+    },
+    {
+      "id": 282,
+      "line_org_location": "Bangladesh",
+      "purchase_order_number": "",
+      "equipment_name": "Slice Washer",
+      "fm_org_name":"Sreekanth FM Org",
+      "equipment_image":"https://portalenablingwindiag.blob.core.windows.net/enabling-storage/Slice-Washer-AE113.jpg",
+      "status" :"Unassigned"
+
+    },
+    {
+      "id": 265,
+      "line_org_location": "Bangladesh",
+      "purchase_order_number": "",
+      "equipment_name": "Bagger",
+      "fm_org_name":"Sreekanth FM Org",
+      "equipment_image":"https://portalenablingwindiag.blob.core.windows.net/enabling-storage/Bagger-AE86.jpg",
+      "status" :"Unassigned"
+
+    },
+    {
+      "id": 264,
+      "line_org_location": "Bangladesh",
+      "purchase_order_number": "",
+      "equipment_name": "Bagging Unit",
+      "fm_org_name":"Sreekanth FM Org",
+      "equipment_image":"https://portalenablingwindiag.blob.core.windows.net/enabling-storage/Bagging-Unit-AE135.jpg",
+      "status" :"Unassigned"
+
+    },
+    {
+      "id": 266,
+      "line_org_location": "Bangladesh",
+      "purchase_order_number": "",
+      "equipment_name": "Baking Oven",
+      "fm_org_name":"Sreekanth FM Org",
+      "equipment_image":"https://portalenablingwindiag.blob.core.windows.net/enabling-storage/Baking-Oven-AE94.jpg",
+      "status" :"Unassigned"
+
+    },
+    {
+      "id": 293,
+      "line_org_location": "Bangladesh",
+      "purchase_order_number": "",
+      "equipment_name": "Sifter",
+      "fm_org_name":"Sreekanth FM Org",
+      "equipment_image":"https://portalenablingwindiag.blob.core.windows.net/enabling-storage/Sifter-AE59.jpg",
+      "status" :"Unassigned"
+
+    },
+    {
+      "id": 268,
+      "line_org_location": "Bangladesh",
+      "purchase_order_number": "",
+      "equipment_name": "Cutter",
+      "fm_org_name":"Sreekanth FM Org",
+      "equipment_image":"https://portalenablingwindiag.blob.core.windows.net/enabling-storage/Cutter-AE66.jpg",
+      "status" :"Unassigned"
+
+    },
+    {
+      "id": 269,
+      "line_org_location": "Bangladesh",
+      "purchase_order_number": "",
+      "equipment_name": "Diverter Chute",
+      "fm_org_name":"Sreekanth FM Org",
+      "equipment_image":"https://portalenablingwindiag.blob.core.windows.net/enabling-storage/Diverter-Chute-AE157.jpg",
+      "status" :"Unassigned"
+    },
+    {
+      "id": 288,
+      "line_org_location": "Bangladesh",
+      "purchase_order_number": "",
+      "equipment_name": "Fryer Unit",
+      "fm_org_name":"Sreekanth FM Org",
+      "equipment_image":"https://portalenablingwindiag.blob.core.windows.net/enabling-storage/Fryer-Unit-AE71.jpg",
+      "status" :"Unassigned"
+    },
+    {
+      "id": 274,
+      "line_org_location": "Bangladesh",
+      "purchase_order_number": "",
+      "equipment_name": "Tunnel Oven",
+      "fm_org_name":"Sreekanth FM Org",
+      "equipment_image":"https://portalenablingwindiag.blob.core.windows.net/enabling-storage/Tunnel-Oven-AE150.jpg",
+      "status" :"Unassigned"
+    }
+  ]
+}

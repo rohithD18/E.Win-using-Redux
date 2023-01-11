@@ -1,0 +1,45 @@
+.header{
+    color: aliceblue;
+    background-color: black;
+    padding: 20px;
+    display: flex;
+}
+#back_arrow{
+    width: 25px;
+    border-radius: 30px;
+    padding-top: 8px;
+}
+#tableData{
+    border: 1px solid lightgrey;
+}
+.tableContent{
+    border: 1px solid lightgrey;
+    margin: 10px;
+}
+.div1{
+    width: 30%;
+    display: inline-flex;
+    justify-content: space-between;
+}
+.div2{
+    width: 30%;
+    display: inline-flex;
+    justify-content: space-between;
+}
+.div3{
+    width: 30%;
+    display: inline-flex;
+    justify-content: space-between;
+}
+#rangeInput{
+    width: 100%;
+}
+.prjectDetailsInput{
+    background-color: lightgrey;
+    border: none;
+    border-radius: 10px;
+    padding: 8px;
+}
+
+
+

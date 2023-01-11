@@ -1,0 +1,27 @@
+body{
+    background-color: #111432;
+}
+.loginpage{
+    margin-top: 60px;
+    color: aliceblue;
+}
+.login{
+ width: 300px;
+ text-align: left; 
+}
+.loginInput {
+    height: 38px;
+    padding-left: 10px;
+    border-radius: 10px;
+    border: none;
+    width: 100%;
+}
+#loginbtn{
+    background-color: green;
+    border: none;
+    width: 100%;
+    height: 37px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}

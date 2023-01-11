@@ -1,0 +1,161 @@
+#header3{
+    color: aliceblue;
+    padding: 10px;
+    margin-right: 60px;
+}
+.proccesLineBtn{
+    width: 150px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.equipmentBtn{
+    width: 150px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.proccesLineBtn:visited{
+    background-color: #111432;
+}
+.navBarInstallations{
+    position: fixed;
+    top: 0px;
+    background-color: black;
+    width: 100%;
+    border-bottom: 0.5px solid grey;
+    margin-left: 80px;
+}
+#backArrow{
+    width: 25px;
+    margin-left: 55px;
+}
+#backArrow:hover{
+    cursor: pointer;
+}
+
+.equipmentsData{
+    margin-top: 177px;
+    color: white;
+}
+.equipmentsTable{
+    width: 90%;
+    margin-left: 120px;
+}
+#rowHead{
+    padding-left: 30px;
+    width:250px
+}
+#equipmentImage{
+    width: 100px;
+    height: 80px;
+    border-radius: 10px;
+    border: 1px solid;
+    /* padding: 2px; */
+}
+#E-tableRow{
+    border-bottom: 0.1px solid lightslategray;
+}
+#E-tableRow:hover{
+    background-color: rgb(15, 96, 122);
+    cursor: pointer;
+}
+.e-Header2{
+    position: fixed;
+    top: 78px;
+    background-color: #111432;
+    padding-top: 10px;
+    padding-left: 30px;
+    font-size: x-large;
+    height: 60px;
+    color: aliceblue;
+    margin-left: 120px;
+    width: 90%;
+}
+.E-tableHead{
+    position: fixed;
+    top: 138px;
+    width: 90%;
+    display: inline-table;
+    background-color: #111432;
+    border-bottom: 0.1px solid lightgrey;
+    border-top: 0.1px solid lightgrey;
+}
+#equipmentName{
+    width: 280px;
+}
+#oemName{
+    width: 275px;
+}
+#loaction{
+    width: 180px;
+}
+.proccessLinesTable{
+    width: 90%;
+    margin-top: 178px;
+    margin-left: 120px;
+}
+.P-tableHead{
+    position: fixed;
+    top: 138px;
+    width: 100%;
+    height: 35px;
+    display: inline-table;
+    background-color: #111432;
+    border-bottom: 0.1px solid lightgrey;
+    border-top: 0.1px solid lightgrey;
+}
+#P-rowHead{
+    padding-left: 30px;
+    width: 350px;
+}
+#P-lineName{
+    width: 365px;
+}
+#P-capacity{
+    width: 220px;
+}
+.P-trow{
+    border-bottom: 0.1px solid lightgrey;
+    height: 55px;
+    /* padding-left: 120px; */
+}
+.P-trow:hover{
+    background-color: rgb(15, 96, 122);
+    cursor: pointer;
+}
+.proccessLineDetailsPage{
+    margin-top: 85px;
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+}
+.PLDHeader{
+    background-color: black;
+    color: white;
+    height: 70px;
+    width: 100%;
+    padding-top: 10px;
+    position: fixed;
+    top: 0px;
+}
+.pldCard1, .pldCard2{
+    width: 45%;
+    padding: 15px;
+    background-color: #111432;
+    position: static;
+    border: 1px solid rgb(76, 62, 99);
+}
+.proccessDetailsInput{
+    background-color: lightgrey;
+    border: none;
+    border-radius: 10px;
+    padding: 8px;
+}
+.cardPLD{
+    color: aliceblue;
+    background-color: #111432;
+    margin: 15px;
+    border: 1px solid rgb(76, 62, 99);    padding: 10px;
+}
+.PLDCardDiv{
+    justify-content: space-evenly;
+}
